@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Github Users</string>
+    <string name="search">Search</string>
+    <string name="search_github_user">Search GitHub user</string>
+    <string name="more">More</string>
+    <string name="repositories">Repositories: %1$S</string>
+    <string name="open">open</string>
+    <string name="error">Error</string>
+</resources>
